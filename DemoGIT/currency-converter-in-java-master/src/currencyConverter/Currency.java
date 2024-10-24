@@ -108,7 +108,8 @@ public class Currency {
 		currencies.add( new Currency("Euro", "EUR") );
 		currencies.add( new Currency("British Pound", "GBP") );
 		currencies.add( new Currency("Swiss Franc", "CHF") );
-		currencies.add( new Currency("indian ", "IND") ):)
+		currencies.add( new Currency("indian ", "IND") );
+		currencies.add( new Currency("swiss ", "chf") ) );
 		currencies.add( new Currency("Chinese Yuan Renminbi", "CNY") );
 		currencies.add( new Currency("Japanese Yen", "JPY") );
 		
