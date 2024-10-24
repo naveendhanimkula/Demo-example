@@ -23,7 +23,7 @@ public class AboutWindow extends JFrame {
 	 * Create the aboutWindow frame
 	 */
 	private AboutWindow() {
-		setTitle(BUNDLE.getString("AboutWindow.this.title name Naveen")); //$NON-NLS-1$
+		setTitle(BUNDLE.getString("AboutWindow.this.title name Naveen kumar")); //$NON-NLS-1$
 		setBounds(100, 100, 347, 260);
 		setLocationRelativeTo(null);
 		setResizable( false );
